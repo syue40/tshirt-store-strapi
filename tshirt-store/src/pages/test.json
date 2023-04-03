@@ -1,0 +1,442 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "attributes": {
+        "type": "Hoodie",
+        "price": 64.99,
+        "createdAt": "2023-04-03T09:15:51.093Z",
+        "updatedAt": "2023-04-03T09:25:19.916Z",
+        "publishedAt": "2023-04-03T09:17:15.857Z",
+        "Title": "Plain Black",
+        "Description": "100% cotton, made in Vietnam",
+        "slug": null,
+        "image": {
+          "data": {
+            "id": 1,
+            "attributes": {
+              "name": "hoodie-1.png",
+              "alternativeText": null,
+              "caption": null,
+              "width": 920,
+              "height": 920,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_hoodie-1.png",
+                  "hash": "thumbnail_hoodie_1_7b80cfb692",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "path": null,
+                  "width": 156,
+                  "height": 156,
+                  "size": 10.25,
+                  "url": "/uploads/thumbnail_hoodie_1_7b80cfb692.png"
+                },
+                "small": {
+                  "name": "small_hoodie-1.png",
+                  "hash": "small_hoodie_1_7b80cfb692",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "path": null,
+                  "width": 500,
+                  "height": 500,
+                  "size": 69.61,
+                  "url": "/uploads/small_hoodie_1_7b80cfb692.png"
+                },
+                "medium": {
+                  "name": "medium_hoodie-1.png",
+                  "hash": "medium_hoodie_1_7b80cfb692",
+                  "ext": ".png",
+                  "mime": "image/png",
+                  "path": null,
+                  "width": 750,
+                  "height": 750,
+                  "size": 147.7,
+                  "url": "/uploads/medium_hoodie_1_7b80cfb692.png"
+                }
+              },
+              "hash": "hoodie_1_7b80cfb692",
+              "ext": ".png",
+              "mime": "image/png",
+              "size": 28.04,
+              "url": "/uploads/hoodie_1_7b80cfb692.png",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-04-03T09:15:45.826Z",
+              "updatedAt": "2023-04-03T09:15:45.826Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 2,
+      "attributes": {
+        "type": "Hoodie",
+        "price": 54.99,
+        "createdAt": "2023-04-03T09:26:26.832Z",
+        "updatedAt": "2023-04-03T09:26:29.348Z",
+        "publishedAt": "2023-04-03T09:26:29.346Z",
+        "Title": "Plain White",
+        "Description": "100% bleached cotton, made in China",
+        "slug": null,
+        "image": {
+          "data": {
+            "id": 2,
+            "attributes": {
+              "name": "hoodie-2.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 768,
+              "height": 1152,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_hoodie-2.jpg",
+                  "hash": "thumbnail_hoodie_2_7748c44da1",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 104,
+                  "height": 156,
+                  "size": 1.46,
+                  "url": "/uploads/thumbnail_hoodie_2_7748c44da1.jpg"
+                },
+                "large": {
+                  "name": "large_hoodie-2.jpg",
+                  "hash": "large_hoodie_2_7748c44da1",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 667,
+                  "height": 1000,
+                  "size": 20.41,
+                  "url": "/uploads/large_hoodie_2_7748c44da1.jpg"
+                },
+                "medium": {
+                  "name": "medium_hoodie-2.jpg",
+                  "hash": "medium_hoodie_2_7748c44da1",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 500,
+                  "height": 750,
+                  "size": 13.01,
+                  "url": "/uploads/medium_hoodie_2_7748c44da1.jpg"
+                },
+                "small": {
+                  "name": "small_hoodie-2.jpg",
+                  "hash": "small_hoodie_2_7748c44da1",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 333,
+                  "height": 500,
+                  "size": 6.98,
+                  "url": "/uploads/small_hoodie_2_7748c44da1.jpg"
+                }
+              },
+              "hash": "hoodie_2_7748c44da1",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 23.73,
+              "url": "/uploads/hoodie_2_7748c44da1.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-04-03T09:26:03.793Z",
+              "updatedAt": "2023-04-03T09:26:03.793Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 3,
+      "attributes": {
+        "type": "Sweater",
+        "price": 42.99,
+        "createdAt": "2023-04-03T09:27:49.227Z",
+        "updatedAt": "2023-04-03T09:27:49.867Z",
+        "publishedAt": "2023-04-03T09:27:49.864Z",
+        "Title": "Graphic White Long-sleeves",
+        "Description": "50% cotton, 50% polyester, made in Vietnam",
+        "slug": null,
+        "image": {
+          "data": {
+            "id": 3,
+            "attributes": {
+              "name": "sweater-1.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 950,
+              "height": 1140,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_sweater-1.jpg",
+                  "hash": "thumbnail_sweater_1_96d78976d5",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 130,
+                  "height": 156,
+                  "size": 1.24,
+                  "url": "/uploads/thumbnail_sweater_1_96d78976d5.jpg"
+                },
+                "large": {
+                  "name": "large_sweater-1.jpg",
+                  "hash": "large_sweater_1_96d78976d5",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 833,
+                  "height": 1000,
+                  "size": 17.5,
+                  "url": "/uploads/large_sweater_1_96d78976d5.jpg"
+                },
+                "medium": {
+                  "name": "medium_sweater-1.jpg",
+                  "hash": "medium_sweater_1_96d78976d5",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 625,
+                  "height": 750,
+                  "size": 11.58,
+                  "url": "/uploads/medium_sweater_1_96d78976d5.jpg"
+                },
+                "small": {
+                  "name": "small_sweater-1.jpg",
+                  "hash": "small_sweater_1_96d78976d5",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 417,
+                  "height": 500,
+                  "size": 6.41,
+                  "url": "/uploads/small_sweater_1_96d78976d5.jpg"
+                }
+              },
+              "hash": "sweater_1_96d78976d5",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 14.24,
+              "url": "/uploads/sweater_1_96d78976d5.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-04-03T09:27:34.185Z",
+              "updatedAt": "2023-04-03T09:27:34.185Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 4,
+      "attributes": {
+        "type": "Hoodie",
+        "price": 64.99,
+        "createdAt": "2023-04-03T09:29:51.477Z",
+        "updatedAt": "2023-04-03T09:29:52.091Z",
+        "publishedAt": "2023-04-03T09:29:52.089Z",
+        "Title": "PHP Grey",
+        "Description": "100% cotton, PHP is great! Made in China",
+        "slug": null,
+        "image": {
+          "data": {
+            "id": 4,
+            "attributes": {
+              "name": "hoodie-3.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 480,
+              "height": 480,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_hoodie-3.jpg",
+                  "hash": "thumbnail_hoodie_3_f8be6f7a6b",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 156,
+                  "height": 156,
+                  "size": 3.5,
+                  "url": "/uploads/thumbnail_hoodie_3_f8be6f7a6b.jpg"
+                }
+              },
+              "hash": "hoodie_3_f8be6f7a6b",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 28.39,
+              "url": "/uploads/hoodie_3_f8be6f7a6b.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-04-03T09:29:48.556Z",
+              "updatedAt": "2023-04-03T09:29:48.556Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 5,
+      "attributes": {
+        "type": "Hoodie",
+        "price": 59.99,
+        "createdAt": "2023-04-03T09:30:58.408Z",
+        "updatedAt": "2023-04-03T09:31:00.560Z",
+        "publishedAt": "2023-04-03T09:31:00.558Z",
+        "Title": "Breathe Fire Black",
+        "Description": "100% cotton, made in Vietnam",
+        "slug": null,
+        "image": {
+          "data": {
+            "id": 5,
+            "attributes": {
+              "name": "hoodie-4.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 480,
+              "height": 508,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_hoodie-4.jpg",
+                  "hash": "thumbnail_hoodie_4_0bc84e9c8e",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 147,
+                  "height": 156,
+                  "size": 4.39,
+                  "url": "/uploads/thumbnail_hoodie_4_0bc84e9c8e.jpg"
+                },
+                "small": {
+                  "name": "small_hoodie-4.jpg",
+                  "hash": "small_hoodie_4_0bc84e9c8e",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 472,
+                  "height": 500,
+                  "size": 20.49,
+                  "url": "/uploads/small_hoodie_4_0bc84e9c8e.jpg"
+                }
+              },
+              "hash": "hoodie_4_0bc84e9c8e",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 20.92,
+              "url": "/uploads/hoodie_4_0bc84e9c8e.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-04-03T09:30:52.191Z",
+              "updatedAt": "2023-04-03T09:30:52.191Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 6,
+      "attributes": {
+        "type": "Sweater",
+        "price": 24.49,
+        "createdAt": "2023-04-03T09:32:36.793Z",
+        "updatedAt": "2023-04-03T09:32:37.265Z",
+        "publishedAt": "2023-04-03T09:32:37.264Z",
+        "Title": "Blue Joke Long-sleeves",
+        "Description": "100% cotton, made in Vietnam",
+        "slug": null,
+        "image": {
+          "data": {
+            "id": 6,
+            "attributes": {
+              "name": "sweater-2.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 220,
+              "height": 230,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_sweater-2.jpg",
+                  "hash": "thumbnail_sweater_2_3be569e0d6",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 149,
+                  "height": 156,
+                  "size": 4.55,
+                  "url": "/uploads/thumbnail_sweater_2_3be569e0d6.jpg"
+                }
+              },
+              "hash": "sweater_2_3be569e0d6",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 5.68,
+              "url": "/uploads/sweater_2_3be569e0d6.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-04-03T09:32:30.821Z",
+              "updatedAt": "2023-04-03T09:32:30.821Z"
+            }
+          }
+        }
+      }
+    },
+    {
+      "id": 7,
+      "attributes": {
+        "type": "Sweater",
+        "price": 24.49,
+        "createdAt": "2023-04-03T09:33:48.276Z",
+        "updatedAt": "2023-04-03T09:33:49.871Z",
+        "publishedAt": "2023-04-03T09:33:49.869Z",
+        "Title": "White Graphic Long-sleeves",
+        "Description": "100% cotton, made in China",
+        "slug": null,
+        "image": {
+          "data": {
+            "id": 7,
+            "attributes": {
+              "name": "sweater-3.jpg",
+              "alternativeText": null,
+              "caption": null,
+              "width": 225,
+              "height": 225,
+              "formats": {
+                "thumbnail": {
+                  "name": "thumbnail_sweater-3.jpg",
+                  "hash": "thumbnail_sweater_3_f0affef59e",
+                  "ext": ".jpg",
+                  "mime": "image/jpeg",
+                  "path": null,
+                  "width": 156,
+                  "height": 156,
+                  "size": 4.1,
+                  "url": "/uploads/thumbnail_sweater_3_f0affef59e.jpg"
+                }
+              },
+              "hash": "sweater_3_f0affef59e",
+              "ext": ".jpg",
+              "mime": "image/jpeg",
+              "size": 5.4,
+              "url": "/uploads/sweater_3_f0affef59e.jpg",
+              "previewUrl": null,
+              "provider": "local",
+              "provider_metadata": null,
+              "createdAt": "2023-04-03T09:33:45.473Z",
+              "updatedAt": "2023-04-03T09:33:45.473Z"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "meta": {
+    "pagination": { "page": 1, "pageSize": 25, "pageCount": 1, "total": 7 }
+  }
+}
