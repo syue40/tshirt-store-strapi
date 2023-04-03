@@ -1,0 +1,11 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:tshirt_store_strapi}/tshirt-store-cms/.tmp/data.db",
+            "name": "strapi-db"
+        }
+    ]
+}
